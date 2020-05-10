@@ -1,0 +1,22 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\bin\Debug\Formlar_Arasi_Veri_Tasima_2.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\bin\Debug\Formlar_Arasi_Veri_Tasima_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\bin\Debug\Formlar_Arasi_Veri_Tasima_2.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.Form2.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\bin\Debug\Formlar_Arasi_Veri_Tasima_2.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\bin\Debug\Formlar_Arasi_Veri_Tasima_2.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\bin\Debug\Formlar_Arasi_Veri_Tasima_2.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.Form2.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Formlar_Arasi_Veri_Tasima_2\Formlar_Arasi_Veri_Tasima_2\obj\Debug\Formlar_Arasi_Veri_Tasima_2.pdb
